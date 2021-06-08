@@ -6,22 +6,22 @@
 ---
 
 <a href="https://www.linkedin.com/in/madushan-sooriyarathne/">
-  <img align="left" width="26px"  src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/icons/linkedin.svg" />
+  <img align="left" width="26px"  src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/blob/94289f4d44e08079963434a057f63464509a9717/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/madushan-sooriyarathne/">
-  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/icons/github.svg" />
+  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/blob/94289f4d44e08079963434a057f63464509a9717/icons/github.svg" />
 </a>
 <a href="https://madushan.dev">
-  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/icons/web.svg" />
+  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/blob/94289f4d44e08079963434a057f63464509a9717/icons/web.svg" />
 </a>
 <a href="https://www.facebook.com/madushan.sooriyarathne/">
-  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/icons/facebook.svg" />
+  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/blob/94289f4d44e08079963434a057f63464509a9717/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/iam_madushan/?hl=en">
-  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/icons/instagram.svg" />
+  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/blob/94289f4d44e08079963434a057f63464509a9717/icons/instagram.svg" />
 </a>
 <a href="mailto:hello@madushan.dev">
-  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/icons/email.svg" />
+  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/blob/94289f4d44e08079963434a057f63464509a9717/icons/email.svg" />
 </a>
 
 <br />
