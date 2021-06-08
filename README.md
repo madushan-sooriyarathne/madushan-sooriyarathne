@@ -34,7 +34,7 @@
 
 ### About Me 🚀
 
-🌱 I’m a self-tought Full stack developer with based in Colombo, Sri Lanka. 🇱🇰 </br>
+🌱 I’m a Creative Designer & Full Stack Web Developer based in 🇱🇰 Colombo, Sri Lanka. I design and code beautifully simple things and I love what I do. </br>
 👨‍💻 I am passionate about Web Design & Development and I enjoy learning new things. </br>
 
 <br />
