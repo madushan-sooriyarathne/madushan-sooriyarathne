@@ -1,6 +1,7 @@
 ## Hey <img align="left" width="26px"  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" />, I'm [Madushan Sooriyarathne!](https://madushan.dev/) `[ma-dhu-shaa-n]`
 
 <br />
+
 - 🔭 I’m currently working on [This Repo](https://github.com/madushan-sooriyarathne/lotus-eater-asia "This Repo")
 - 🌱 I’m currently learning Rust & Linux Shell Scripting
 
