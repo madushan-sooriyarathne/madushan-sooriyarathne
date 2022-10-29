@@ -2,7 +2,7 @@
 
 <br />
 
-- 🔭 I’m currently working on [This Repo](https://github.com/madushan-sooriyarathne/lotus-eater-asia "This Repo")
+- 🔭 I’m currently working on some private repos. 
 - 🌱 I’m currently learning Rust & Linux Shell Scripting
 
 ---
@@ -18,17 +18,10 @@
 <a href="https://madushan.dev">
   <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/blob/94289f4d44e08079963434a057f63464509a9717/icons/web.svg" />
 </a>
-<a href="https://www.facebook.com/madushan.sooriyarathne/">
-  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/blob/94289f4d44e08079963434a057f63464509a9717/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/iam_madushan/?hl=en">
-  <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/blob/94289f4d44e08079963434a057f63464509a9717/icons/instagram.svg" />
-</a>
 <a href="mailto:hello@madushan.dev">
   <img align="left" width="26px" src="https://github.com/madushan-sooriyarathne/madushan-sooriyarathne/blob/94289f4d44e08079963434a057f63464509a9717/icons/email.svg" />
 </a>
 
-<br />
 <br />
 <br />
 
